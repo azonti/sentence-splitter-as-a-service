@@ -7,6 +7,7 @@
     "sentence-splitter-as-a-service": "./bin/web.js"
   },
   "scripts": {
+    "start": "node ./bin/web.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
